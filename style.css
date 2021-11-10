@@ -372,6 +372,27 @@ i a{
     line-height: 0.1;    
     font-size: 17px;
 }
+.linker {
+  display: flex;
+    margin: 10px;
+
+}
+
+.linkPage  {
+  background-color: #c56666;
+  border: 1px solid #c56666;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+.linkPage a {
+  color: white;
+  text-align: center;
+}
 
 /* BACK END STYLING */
 .fifth {
